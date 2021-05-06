@@ -7,8 +7,8 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/htr-tech/termux-login.git
-cd termux-login
+git clone 
+
 chmod +x *
 sh install.sh
 exit 
@@ -21,12 +21,12 @@ apt update && apt install git -y && git clone  && cd termux-login && chmod +x * 
 ### Now go to Termux App & Set Username,Password AND Recovery Key
 
 ##### [+] Requirements
-```Python 2.x```
 
-#### [+] Features:
-• Bug Fixed
 
-• Parrot typing Shell Added
+
+
+
+
 
 
 #### CREDITS:
